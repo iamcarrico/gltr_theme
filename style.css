@@ -1,0 +1,32 @@
+/*
+Theme Name: Georgetown Law Technology Review
+Theme URI: http://georgetownlawtechreview.org
+Description: A responsive theme built for GLTR
+Author: Eric Pait
+Author URI: http://ericpait.com/
+Version: 2.0
+*/
+
+p a {
+	color: #003da5;
+}
+
+.postTitle a {
+	line-height: 1rem;
+}
+
+.postVideoEmbed {
+	margin-bottom: 15px;
+}
+
+.author-bio-photo {
+	float: left; margin-right: 15px;
+}
+
+a.issuePDF {    
+	padding: 5px 7px;
+    font-size: 1rem !important;
+    background-color: #041e42;
+    border-radius: 4px;
+    color: #fff;
+}
