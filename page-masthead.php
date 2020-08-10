@@ -1,4 +1,4 @@
-<?php 
+<?php
 /*
 Template Name: Masthead
 */
@@ -21,4 +21,4 @@ Template Name: Masthead
 	</div>
 </div>
 
-<?php get_footer(); ?> 	
+<?php get_footer(); ?>
